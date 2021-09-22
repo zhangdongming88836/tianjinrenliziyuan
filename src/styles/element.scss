@@ -1,0 +1,33 @@
+.el-transfer-panel {
+    width: 220px !important;
+    height: 435px !important;
+  }
+  .el-transfer-panel__list.is-filterable {
+    height: 200px;
+  }
+  .el-dialog__header {
+    background-color: #0075cb;
+  }
+  .el-dialog__title {
+    margin-left: -88% !important;
+    width: 32px;
+    height: 22px;
+    font-family: PingFang SC;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #ffffff;
+  }
+  .el-icon-close:before {
+    color: #e4e4e4;
+  }
+  .righ{
+    text-align: right;
+    margin-right:10px;
+    margin-top:10px;
+  }
+  .el-dialog--center .el-dialog__body{
+    padding:0px !important;
+  }
